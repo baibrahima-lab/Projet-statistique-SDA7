@@ -1,0 +1,21 @@
+# --- Cœur du projet (Data Science) ---
+pandas>=1.3.0
+numpy>=1.21.0
+
+# --- Économétrie & Statistiques (MCO, Tests, IV) ---
+statsmodels>=0.13.0
+scipy>=1.7.0
+
+# --- Machine Learning (Ridge, Lasso, Validation Croisée) ---
+scikit-learn>=1.0.0
+
+# --- Visualisation Graphique ---
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# --- Lecture de fichiers Excel (.xlsx) ---
+openpyxl>=3.0.0
+
+# --- Environnement Jupyter ---
+jupyter>=1.0.0
+ipykernel>=6.0.0
